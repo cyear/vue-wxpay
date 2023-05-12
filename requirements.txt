@@ -1,0 +1,4 @@
+flask
+requests
+json
+# json不存在可能高版本自带
